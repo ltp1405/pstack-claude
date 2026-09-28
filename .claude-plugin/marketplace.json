@@ -1,0 +1,14 @@
+{
+  "name": "pstack-claude",
+  "description": "Claude Code port of the pstack plugin from cursor/plugins.",
+  "owner": {
+    "name": "Tung Phan"
+  },
+  "plugins": [
+    {
+      "name": "pstack",
+      "source": "./",
+      "description": "Claude Code port of Lauren Tan's pstack: poteto-mode, playbooks, principles, and multi-agent review skills."
+    }
+  ]
+}
